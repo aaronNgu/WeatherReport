@@ -1,0 +1,31 @@
+body{
+  margin-top: 100px;
+  text-align:center;
+  font-family:sans-serif;
+  background-color: black;
+  color:white;
+}
+h2{
+  display: inline-block;
+
+}
+img{
+  display: inline-block;
+}
+#h3{
+  display: inline-block;
+}
+#changeUnit{
+  display: inline-block;
+  background-color: black;
+  color: grey;
+  outline: none;
+  border: none;
+  font-size: 20px;
+}
+#temperature{
+  font-size: 20px;
+}
+#changeUnit:hover{
+  background-color: white;
+}
